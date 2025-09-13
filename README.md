@@ -13,7 +13,6 @@
 - [Usage](#usage)
 - [photos](#photos)
 - [Project Structure](#project-structure)
-- [CODE](#CODE)
 - [AUTHOR](#AUTHOR)
 
 ---
